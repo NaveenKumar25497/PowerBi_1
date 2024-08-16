@@ -36,21 +36,22 @@ This Power BI project aims to analyze and visualize data from a survey conducted
      
 ## Dashboard Features
 
-**Job Role Distribution:** Visual representation of the distribution of survey respondents across different job roles in the data field.
+**Average Salary Analysis :** A detailed analysis of average salary range for the different job titles.
 
-**Experience vs. Salary Analysis:** A detailed analysis of how years of experience correlate with salary ranges across different countries and industries.
+**Skills Analysis:** Insights into the most preferred programming languages among data professionals.
 
-**Skills Analysis:** Insights into the most commonly used tools and technologies among data professionals.
+**Geographical Analysis:** Tree maps showing the distribution of data professionals globally.
 
-**Geographical Analysis:** Heat maps and other geographical visualizations showing the distribution of data professionals globally.
+**Job Satisfaction Insights:** Analysis of factors contributing to job satisfaction, including work-life balance and salary.
 
-**Job Satisfaction Insights:** Analysis of factors contributing to job satisfaction, including work-life balance, salary, and company culture.
+**Count and Average Distribution:** Visual representation of the distribution of survey respondents count and average of survey takers with card visual.
+
 
 ## How to Use This Project
 
 **Open the Power BI File:** Load the Data Professional Survey.pbix file in Power BI Desktop.
 
-**Explore the Dashboards:** Navigate through the various pages in the Power BI report to explore the different analyses.
+**Explore the Dashboard:** Navigate through the Power BI report to explore the different analyses.
 
 **Filter and Slice the Data:** Use the interactive filters and slicers to drill down into specific data points of interest (e.g., filtering by job role, country, or experience level).
 
