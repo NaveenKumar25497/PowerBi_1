@@ -61,6 +61,8 @@ This Power BI project aims to analyze and visualize data from a survey conducted
 
 This Power BI project provides valuable insights into the data professional landscape, helping stakeholders understand key trends and make data-driven decisions. The interactive dashboards allow users to explore the data from multiple perspectives, making this a comprehensive tool for analysis.
 
+
+
 ![Data Professional](https://github.com/user-attachments/assets/4ad72cf9-d8a9-4eee-a7e1-c032c7149232)
 
 
